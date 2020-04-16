@@ -1,2 +1,2 @@
-# blog
-Playmap official blog
+# Team
+Playmap communication chaneel

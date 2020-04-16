@@ -1,2 +1,2 @@
 # Team
-Playmap communication chaneel
+Playmap communication channel
